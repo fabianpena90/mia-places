@@ -4,7 +4,7 @@ import './App.css'
 import { Switch, Route } from "react-router-dom";
 import Tour from './Components/Tour'
 import Home from './Components/Home'
-import Footer from './Components/Footer'
+// import Footer from './Components/Footer'
 import About from './Components/About'
 import Contact from './Components/Contact'
 
