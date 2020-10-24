@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# MIA Places 305
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can find the most popular places to go in this site.
+
+https://miaplacestogo.netlify.app
 
 ## Available Scripts
 
