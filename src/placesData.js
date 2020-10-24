@@ -61,5 +61,5 @@ export const placesData = [
     cityName: "Bal Harbour",
     content: "EXQUISITE AND EXCLUSIVE DESTINATION A shining enclave at the northern tip of Miami Beach, Bal Harbour Village holds a singular appeal for the world’s most discerning travelers seeking the finest Miami resorts. The Village exudes impeccable, contemporary style with deluxe oceanfront hotels, resorts, residences, ultra-chic shopping and an enviable selection of dining options. Yet Bal Harbour Village remains a natural paradise with pristine, white sand beaches and a serene spirit. Discover the exquisite and exclusive Bal Harbour.",
     infoURL: 'https://www.balharbourflorida.com/'
-  }
+  },
 ];
